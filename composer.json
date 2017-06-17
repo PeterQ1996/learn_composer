@@ -1,0 +1,13 @@
+{
+    "name": "peterq/learn_composer",
+    "description": "just for learning, not a real project",
+    "type": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PeterQ",
+            "email": "me@peterq.cn"
+        }
+    ],
+    "require": {}
+}
